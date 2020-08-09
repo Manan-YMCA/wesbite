@@ -78,6 +78,10 @@ module.exports = {
           path: "./event",
           routeBasePath: "/event",
         },
+        docs: {
+          path: "./info",
+          routeBasePath: "/",
+        },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
