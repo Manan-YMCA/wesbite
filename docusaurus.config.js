@@ -57,7 +57,7 @@ module.exports = {
           items: [
             {
               label: "Events",
-              to: "events",
+              to: "event",
             },
             {
               label: "GitHub",
