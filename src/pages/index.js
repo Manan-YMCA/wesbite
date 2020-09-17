@@ -12,7 +12,7 @@ const features = [
     imageUrl: "img/programmers.svg",
     description: (
       <>
-        Manan has programmer from various backgrounds including A.I, Machine
+        Manan has programmers from various backgrounds including A.I, Machine
         Learning, Web development, Blockchain, and Android Development.
       </>
     ),
@@ -23,7 +23,7 @@ const features = [
     description: (
       <>
         Manan is a community of students from JC Bose UST. Manan is a community
-        by the Student, for the Student and of the Students.
+        by the students, for the students and of the students.
       </>
     ),
   },
@@ -32,8 +32,8 @@ const features = [
     imageUrl: "img/teaching.svg",
     description: (
       <>
-        Most of our Members are self-taught programmer. These programmer help
-        thier peers.
+        Most of our Members are self-taught programmers. These programmers help
+        their peers.
       </>
     ),
   },
