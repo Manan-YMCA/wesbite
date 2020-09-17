@@ -8,12 +8,12 @@ import styles from "./styles.module.css";
 
 const features = [
   {
-    title: <>Programmer By Heart</>,
+    title: <>Programmers By Heart</>,
     imageUrl: "img/programmers.svg",
     description: (
       <>
-        Manan has programmer from various backgrounds including A.I, Machine
-        Learning, Web development, Blockchain, and Android Development.
+        Manan is community of students who are highly motivated and enthusiastic
+      about coding, web designing, software development and all other aspects of programming.
       </>
     ),
   },
@@ -22,8 +22,8 @@ const features = [
     imageUrl: "img/community.svg",
     description: (
       <>
-        Manan is a community of students from JC Bose UST. Manan is a community
-        by the Student, for the Student and of the Students.
+        Manan is a community of students of JC Bose UST. We organize programming contests, hackathons
+        and organize regular lectures and workshops on algorithms, development and new technologies among other things.
       </>
     ),
   },
@@ -32,8 +32,7 @@ const features = [
     imageUrl: "img/teaching.svg",
     description: (
       <>
-        Most of our Members are self-taught programmer. These programmer help
-        thier peers.
+        Most of our members are self-taught programmers. These programmers help and inspire their peers to explore new technologies and learn and create new things.
       </>
     ),
   },
